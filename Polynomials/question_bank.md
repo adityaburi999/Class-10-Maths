@@ -113,7 +113,7 @@
 23. **Question:** For p(x)=x^2-4x+3, find p(0),p(1),p(3).
 
 
-    **Solution:** p(0)=3,\ p(1)=0,\ p(3)=0.
+    **Solution:** p(0)=3, p(1)=0, p(3)=0.
 
 24. **Question:** Find the remainder when x^4-1 is divided by x-1.
 

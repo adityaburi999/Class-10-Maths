@@ -1,16 +1,16 @@
 # Pair of Linear Equations in Two Variables: 50 Important Questions with Solutions (Class 10)
 
-1. **Question:** Solve: x+y=7,\ x-y=1.
+1. **Question:** Solve: x+y=7, x-y=1.
 
 
    **Solution:** Add the two equations to get 2x=8, so x=4. Substitute x=4 in x+y=7, so y=3.
 
-2. **Question:** Solve: 2x+3y=13,\ 3x+2y=12.
+2. **Question:** Solve: 2x+3y=13, 3x+2y=12.
 
 
    **Solution:** Multiply the first equation by 3 and the second by 2. We get 6x+9y=39 and 6x+4y=24. Subtract the second from the first: 5y=15, so y=3. Put y=3 in 2x+3y=13: 2x+9=13, so x=2.
 
-3. **Question:** Solve: 5x-2y=1,\ 3x+4y=17.
+3. **Question:** Solve: 5x-2y=1, 3x+4y=17.
 
 
    **Solution:** Multiply the first equation by 2 to get 10x-4y=2. Add it with 3x+4y=17. Then 13x=19, so x=((19)/(13)). Substitute this value in 5x-2y=1, and we get y=((41)/(13)).
@@ -20,50 +20,50 @@
 
    **Solution:** Put x=2y+1 into 3x+y=19: 3(2y+1)+y=19. This becomes 7y=16, so y=((16)/(7)). Now x=2y+1=2×((16)/(7))+1=((39)/(7)).
 
-5. **Question:** Solve: 4x+5y=6,\ 8x+10y=12.
+5. **Question:** Solve: 4x+5y=6, 8x+10y=12.
 
 
    **Solution:** Second is double of first. Infinitely many solutions.
 
-6. **Question:** Solve: 2x+3y=5,\ 4x+6y=15.
+6. **Question:** Solve: 2x+3y=5, 4x+6y=15.
 
 
    **Solution:** LHS ratio equal, constants not. No solution.
 
-7. **Question:** Find k for unique solution: 2x+ky=3,\ 4x+6y=5.
+7. **Question:** Find k for unique solution: 2x+ky=3, 4x+6y=5.
 
 
    **Solution:** A pair of linear equations has a unique solution when the ratio of x-coefficients is not equal to the ratio of y-coefficients. Here that means ((2)/(4))≠((k)/(6)), so ((1)/(2))≠((k)/(6)). Therefore k≠3.
 
-8. **Question:** Find k for no solution: 3x+2y=5,\ 9x+ky=12.
+8. **Question:** Find k for no solution: 3x+2y=5, 9x+ky=12.
 
 
    **Solution:** For no solution, the ratio of x-coefficients and y-coefficients must be equal, but different from the ratio of constants. So ((3)/(9))=((2)/(k)), which gives ((1)/(3))=((2)/(k)), hence k=6. Also ((5)/(12))≠((1)/(3)), so this value is correct.
 
-9. **Question:** Find k for infinitely many solutions: 2x+3y=7,\ 6x+ky=21.
+9. **Question:** Find k for infinitely many solutions: 2x+3y=7, 6x+ky=21.
 
 
    **Solution:** For infinitely many solutions, all three ratios must be equal: ((2)/(6))=((3)/(k))=((7)/(21)). Since ((2)/(6))=((7)/(21))=((1)/(3)), we need ((3)/(k))=((1)/(3)). So k=9.
 
-10. **Question:** Solve: 7x+3y=29,\ 5x-2y=4.
+10. **Question:** Solve: 7x+3y=29, 5x-2y=4.
 
 
     **Solution:** Multiply first by 2, second by 3: 14x+6y=58, 15x-6y=12. Add: 29x=70, so x=((70)/(29)). Then 5x-2y=4, so y=((117)/(29)).
 
-11. **Question:** Solve: x+2y=10,\ 3x-y=5.
+11. **Question:** Solve: x+2y=10, 3x-y=5.
 
 
     **Solution:** From first x=10-2y. Put in second: 30-6y-y=5, so y=((25)/(7)), x=((20)/(7)).
 
-12. **Question:** Solve: 0.2x+0.3y=1.3,\ 0.4x-0.5y=0.3.
+12. **Question:** Solve: 0.2x+0.3y=1.3, 0.4x-0.5y=0.3.
 
 
-    **Solution:** Multiply by 10: 2x+3y=13,\ 4x-5y=3. Solve: x=((37)/(11)),y=((23)/(11)).
+    **Solution:** Multiply by 10: 2x+3y=13, 4x-5y=3. Solve: x=((37)/(11)),y=((23)/(11)).
 
-13. **Question:** Solve: ((x)/(2))+((y)/(3))=4,\ ((x)/(3))-((y)/(2))=1.
+13. **Question:** Solve: ((x)/(2))+((y)/(3))=4, ((x)/(3))-((y)/(2))=1.
 
 
-    **Solution:** Multiply by 6: 3x+2y=24,\ 2x-3y=6. Solve: x=6,y=3.
+    **Solution:** Multiply by 6: 3x+2y=24, 2x-3y=6. Solve: x=6,y=3.
 
 14. **Question:** The sum of two numbers is 27 and difference is 5. Find numbers.
 
@@ -200,10 +200,10 @@
 
     **Solution:** Subtract: 4x-4y=-8, so x-y=-2. Using first: 11(y-2)+7y=5, so 18y=27, so y=((3)/(2)),x=-((1)/(2)).
 
-41. **Question:** Solve: ((x)/(5))+((y)/(2))=7,\ ((x)/(3))-((y)/(4))=1.
+41. **Question:** Solve: ((x)/(5))+((y)/(2))=7, ((x)/(3))-((y)/(4))=1.
 
 
-    **Solution:** Multiply by 10 and 12: 2x+5y=70,\ 4x-3y=12. Solve: x=((246)/(13)),y=((84)/(13)).
+    **Solution:** Multiply by 10 and 12: 2x+5y=70, 4x-3y=12. Solve: x=((246)/(13)),y=((84)/(13)).
 
 42. **Question:** If a+b=13, a-b=1, find a,b.
 
