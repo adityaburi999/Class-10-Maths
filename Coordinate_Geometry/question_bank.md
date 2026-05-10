@@ -70,7 +70,7 @@
     **Solution:** \(\sqrt{3^2+4^2}=5\).
 
 24. **Question:** Find coordinates of point that divides \((2,6)\), \((8,0)\) in ratio \(3:1\).
-    **Solution:** \(\left(\frac{3\cdot8+1\cdot2}{4},\frac{3\cdot0+1\cdot6}{4}\right)=\left(\frac{13}{2},\frac{3}{2}\right)\).
+    **Solution:** Using section formula with \(A(2,6),B(8,0),m:n=3:1\): \(P\left(\frac{m x_2+n x_1}{m+n},\frac{m y_2+n y_1}{m+n}\right)=\left(\frac{3\cdot8+1\cdot2}{4},\frac{3\cdot0+1\cdot6}{4}\right)=\left(\frac{13}{2},\frac{3}{2}\right)\).
 
 25. **Question:** If midpoint of \((x,2)\), \((6,8)\) is \((4,5)\), find \(x\).
     **Solution:** \(\frac{x+6}{2}=4\Rightarrow x=2\).

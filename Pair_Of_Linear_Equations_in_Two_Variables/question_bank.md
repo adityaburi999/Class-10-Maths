@@ -28,16 +28,16 @@
    **Solution:** Need \(\frac{2}{6}=\frac{3}{k}=\frac{7}{21}=\frac13\Rightarrow k=9\).
 
 10. **Question:** Solve: \(7x+3y=29,\ 5x-2y=4\).
-    **Solution:** Multiply first by 2, second by 3: \(14x+6y=58\), \(15x-6y=12\). Add: \(29x=70\Rightarrow x=\frac{70}{29}\), \(y=\frac{117}{29}\).
+    **Solution:** Multiply first by 2, second by 3: \(14x+6y=58\), \(15x-6y=12\). Add: \(29x=70\Rightarrow x=\frac{70}{29}\). Then \(5x-2y=4\Rightarrow y=\frac{117}{29}\).
 
 11. **Question:** Solve: \(x+2y=10,\ 3x-y=5\).
     **Solution:** From first \(x=10-2y\). Put in second: \(30-6y-y=5\Rightarrow y=\frac{25}{7}\), \(x=\frac{20}{7}\).
 
 12. **Question:** Solve: \(0.2x+0.3y=1.3,\ 0.4x-0.5y=0.3\).
-    **Solution:** Multiply by 10: \(2x+3y=13,\ 4x-5y=3\). Solve: \(x=\frac{37}{22},y=\frac{35}{11}\).
+    **Solution:** Multiply by 10: \(2x+3y=13,\ 4x-5y=3\). Solve: \(x=\frac{37}{11},y=\frac{23}{11}\).
 
 13. **Question:** Solve: \(\frac{x}{2}+\frac{y}{3}=4,\ \frac{x}{3}-\frac{y}{2}=1\).
-    **Solution:** Multiply by 6: \(3x+2y=24,\ 2x-3y=6\). Solve: \(x=\frac{84}{13},y=\frac{30}{13}\).
+    **Solution:** Multiply by 6: \(3x+2y=24,\ 2x-3y=6\). Solve: \(x=6,y=3\).
 
 14. **Question:** The sum of two numbers is 27 and difference is 5. Find numbers.
     **Solution:** Let \(x+y=27, x-y=5\). So \(x=16,y=11\).
@@ -79,7 +79,7 @@
     **Solution:** Let tens \(x\), ones \(y\): \(x+y=9\), \(10x+y=10y+x+27\Rightarrow x-y=3\). So \(x=6,y=3\). Number \(63\).
 
 27. **Question:** Solve: \(5x+7y=52\), \(3x-2y=1\).
-    **Solution:** Eliminate \(y\): \(10x+14y=104\), \(21x-14y=7\). Add: \(31x=111\Rightarrow x=\frac{111}{31}\), \(y=\frac{151}{31}\).
+    **Solution:** Eliminate \(y\): \(10x+14y=104\), \(21x-14y=7\). Add: \(31x=111\Rightarrow x=\frac{111}{31}\). Then \(3x-2y=1\Rightarrow y=\frac{151}{31}\).
 
 28. **Question:** Solve: \(x+y=0\), \(2x+3y=5\).
     **Solution:** \(x=-y\). Then \(-2y+3y=5\Rightarrow y=5, x=-5\).
