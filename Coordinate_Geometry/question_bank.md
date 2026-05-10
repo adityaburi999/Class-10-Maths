@@ -223,7 +223,7 @@
 45. **Question:** Find whether triangle with vertices \((0,0),(1,1),(2,2)\) has area 0.
 
 
-    **Solution:** Points collinear \(, so \) area \(0\).
+    **Solution:** Points are collinear, so area is \(0\).
 
 46. **Question:** Find area of triangle with vertices \((2,0),(0,2),(-2,0)\).
 

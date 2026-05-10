@@ -48,7 +48,7 @@
 10. **Question:** Solve: \(7x+3y=29,\ 5x-2y=4\).
 
 
-    **Solution:** Multiply first by 2, second by 3: \(14x+6y=58\), \(15x-6y=12\). Add: \(29x=70, so x=\frac{70}{29}\). Then \(5x-2y=4, so y=\frac{117}{29}\).
+    **Solution:** Multiply first by 2, second by 3: \(14x+6y=58\), \(15x-6y=12\). Add: \(29x=70\), so \(x=\frac{70}{29}\). Then \(5x-2y=4\), so \(y=\frac{117}{29}\).
 
 11. **Question:** Solve: \(x+2y=10,\ 3x-y=5\).
 
