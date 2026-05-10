@@ -64,7 +64,7 @@
     **Solution:** Parallel lines (inconsistent). No solution.
 
 22. **Question:** Find \(k\) so that \(kx+3y=7\), \(9x+6y=14\) has no solution.
-    **Solution:** No solution: \(\frac{k}{9}=\frac{3}{6}\neq\frac{7}{14}\). Since \(\frac{3}{6}=\frac{7}{14}=\frac12\), impossible. **No such \(k\)**.
+    **Solution:** For no solution, we need \(\frac{k}{9}=\frac{3}{6}\neq\frac{7}{14}\). But \(\frac{3}{6}=\frac{7}{14}=\frac12\), so this condition can never happen. Hence **no such \(k\)**.
 
 23. **Question:** Solve: \(9x-2y=7\), \(3x+y=5\).
     **Solution:** From second \(y=5-3x\). Put in first: \(9x-2(5-3x)=7\Rightarrow15x=17\Rightarrow x=\frac{17}{15},y=\frac{8}{5}\).

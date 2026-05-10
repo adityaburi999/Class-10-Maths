@@ -70,7 +70,7 @@
     **Solution:** \(\sqrt{3^2+4^2}=5\).
 
 24. **Question:** Find coordinates of point that divides \((2,6)\), \((8,0)\) in ratio \(3:1\).
-    **Solution:** Using section formula with \(A(2,6),B(8,0),m:n=3:1\): \(P\left(\frac{m x_2+n x_1}{m+n},\frac{m y_2+n y_1}{m+n}\right)=\left(\frac{3\cdot8+1\cdot2}{4},\frac{3\cdot0+1\cdot6}{4}\right)=\left(\frac{13}{2},\frac{3}{2}\right)\).
+    **Solution:** Using section formula with \(A(2,6),B(8,0),m:n=3:1\): \(P\left(\frac{m x_2+n x_1}{m+n},\frac{m y_2+n y_1}{m+n}\right)=\left(\frac{3\cdot8+1\cdot2}{4},\frac{3\cdot0+1\cdot6}{4}\right)=\left(\frac{13}{2},\frac{3}{2}\right)\), which is internally closer to \(B(8,0)\), as expected.
 
 25. **Question:** If midpoint of \((x,2)\), \((6,8)\) is \((4,5)\), find \(x\).
     **Solution:** \(\frac{x+6}{2}=4\Rightarrow x=2\).
@@ -130,7 +130,7 @@
     **Solution:** \(\left(\frac{3\cdot6+1(-2)}{4},\frac{3(-8)+1\cdot4}{4}\right)=(4,-5)\).
 
 44. **Question:** A point P is equidistant from \((2,0)\) and \((0,2)\), and lies on \(y=x\). Find P.
-    **Solution:** Every point on perpendicular bisector \(y=x\) is equidistant; infinitely many such points.
+    **Solution:** Let \(P=(t,t)\) (since \(P\) lies on \(y=x\)). Then \(PA^2=(t-2)^2+t^2\) and \(PB^2=t^2+(t-2)^2\), so \(PA=PB\) for every \(t\). Hence infinitely many such points: all points on \(y=x\).
 
 45. **Question:** Find whether triangle with vertices \((0,0),(1,1),(2,2)\) has area 0.
     **Solution:** Points collinear \(\Rightarrow\) area \(0\).
