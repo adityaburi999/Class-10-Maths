@@ -13,7 +13,7 @@
 3. **Question:** Find midpoint of (2,3) and (8,11).
 
 
-   **Solution:** ((2+8/2),(3+11/2))=(5,7).
+   **Solution:** (((2+8)/2),((3+11)/2))=(5,7).
 
 4. **Question:** Find midpoint of (-4,7) and (6,-3).
 
@@ -23,7 +23,7 @@
 5. **Question:** Find section point dividing (1,2), (7,8) in ratio 1:2 internally.
 
 
-   **Solution:** ((1×7+2×1/3),(1×8+2×2/3))=(3,4).
+   **Solution:** (((1×7+2×1)/3),((1×8+2×2)/3))=(3,4).
 
 6. **Question:** Find section point dividing (2,-1), (8,5) in ratio 2:1 internally.
 
@@ -78,7 +78,7 @@
 16. **Question:** Find ratio in which (3,5) divides segment joining (1,2), (7,11).
 
 
-    **Solution:** Let ratio m:n. From x: (7m+n/m+n)=3, so 2m=n. So ratio 1:2.
+    **Solution:** Let ratio m:n. From x: ((7m+n)/(m+n))=3, so 2m=n. So ratio 1:2.
 
 17. **Question:** Find ratio in which (2,2) divides (0,0) to (5,5).
 
@@ -88,7 +88,7 @@
 18. **Question:** Find point dividing (0,0), (6,9) in ratio 2:1.
 
 
-    **Solution:** ((2×6/3),(2×9/3))=(4,6).
+    **Solution:** (((2×6)/3),((2×9)/3))=(4,6).
 
 19. **Question:** Distance between (a,0), (0,b) is 10 and a=6. Find b.
 
@@ -98,7 +98,7 @@
 20. **Question:** Find coordinates of centroid of triangle (0,0),(6,0),(0,9).
 
 
-    **Solution:** ((6/3),(9/3))=(2,3).
+    **Solution:** ((0+6+0)/3,(0+0+9)/3)=(2,3).
 
 21. **Question:** Find perimeter of triangle with vertices (0,0),(3,0),(3,4).
 
@@ -123,12 +123,12 @@
 25. **Question:** If midpoint of (x,2), (6,8) is (4,5), find x.
 
 
-    **Solution:** (x+6/2)=4, so x=2.
+    **Solution:** ((x+6)/2)=4, so x=2.
 
 26. **Question:** If midpoint of (3,y), (7,9) is (5,6), find y.
 
 
-    **Solution:** (y+9/2)=6, so y=3.
+    **Solution:** ((y+9)/2)=6, so y=3.
 
 27. **Question:** Find area of quadrilateral with vertices (0,0),(4,0),(4,3),(0,3).
 
@@ -138,7 +138,7 @@
 28. **Question:** Find point on line segment joining (1,1), (5,9) at 3/4th from first point.
 
 
-    **Solution:** Ratio 3:1. Point ((3×5+1/4),(3×9+1/4))=(4,7).
+    **Solution:** Ratio 3:1. Point (((3×5+1×1)/4),((3×9+1×1)/4))=(4,7).
 
 29. **Question:** Find whether triangle with sides from points (0,0),(2,2),(4,0) is isosceles.
 
@@ -203,7 +203,7 @@
 41. **Question:** Find ratio in which (4,4) divides (1,1), (7,7).
 
 
-    **Solution:** Midpoint of (1,1) and (7,7) is ((1+7/2),(1+7/2))=(4,4). So it divides the segment in ratio 1:1.
+    **Solution:** Midpoint of (1,1) and (7,7) is (((1+7)/2),((1+7)/2))=(4,4). So it divides the segment in ratio 1:1.
 
 42. **Question:** Find value of k if (k,3) is midpoint of (2,1), (8,5).
 

@@ -153,7 +153,7 @@
 31. **Question:** Sum of numerator and denominator is 10. If 3 is added to both, fraction becomes (3/4). Find fraction.
 
 
-    **Solution:** Let numerator x, denominator y: x+y=10, (x+3/y+3)=(3/4), so 4x-3y=-3. Solve: x=3,y=7. Fraction (3/7).
+    **Solution:** Let numerator x, denominator y: x+y=10, ((x+3)/(y+3))=(3/4), so 4x-3y=-3. Solve: x=3,y=7. Fraction (3/7).
 
 32. **Question:** Solve: 4x-5y=9, 6x+5y=21.
 

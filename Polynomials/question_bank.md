@@ -83,7 +83,7 @@
 17. **Question:** For 2x^2-9x+7, find (1/alpha)+(1/beta).
 
 
-    **Solution:** alpha+beta=(9/2),alphabeta=(7/2). Value =(alpha+beta/alphabeta)=(9/7).
+    **Solution:** alpha+beta=(9/2),alphabeta=(7/2). Value =((alpha+beta)/(alphabeta))=(9/7).
 
 18. **Question:** If one zero of x^2+px+16 is 4, find p.
 
