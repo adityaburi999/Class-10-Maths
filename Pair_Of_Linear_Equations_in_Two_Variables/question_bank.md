@@ -13,12 +13,12 @@
 3. **Question:** Solve: 5x-2y=1, 3x+4y=17.
 
 
-   **Solution:** Multiply the first equation by 2 to get 10x-4y=2. Add it with 3x+4y=17. Then 13x=19, so x=((19)/(13)). Substitute this value in 5x-2y=1, and we get y=((41)/(13)).
+   **Solution:** Multiply the first equation by 2 to get 10x-4y=2. Add it with 3x+4y=17. Then 13x=19, so x=(19/13). Substitute this value in 5x-2y=1, and we get y=(41/13).
 
 4. **Question:** Solve by substitution: x=2y+1, 3x+y=19.
 
 
-   **Solution:** Put x=2y+1 into 3x+y=19: 3(2y+1)+y=19. This becomes 7y=16, so y=((16)/(7)). Now x=2y+1=2×((16)/(7))+1=((39)/(7)).
+   **Solution:** Put x=2y+1 into 3x+y=19: 3(2y+1)+y=19. This becomes 7y=16, so y=(16/7). Now x=2y+1=2×(16/7)+1=(39/7).
 
 5. **Question:** Solve: 4x+5y=6, 8x+10y=12.
 
@@ -33,34 +33,34 @@
 7. **Question:** Find k for unique solution: 2x+ky=3, 4x+6y=5.
 
 
-   **Solution:** A pair of linear equations has a unique solution when the ratio of x-coefficients is not equal to the ratio of y-coefficients. Here that means ((2)/(4))≠((k)/(6)), so ((1)/(2))≠((k)/(6)). Therefore k≠3.
+   **Solution:** A pair of linear equations has a unique solution when the ratio of x-coefficients is not equal to the ratio of y-coefficients. Here that means (2/4)≠(k/6), so (1/2)≠(k/6). Therefore k≠3.
 
 8. **Question:** Find k for no solution: 3x+2y=5, 9x+ky=12.
 
 
-   **Solution:** For no solution, the ratio of x-coefficients and y-coefficients must be equal, but different from the ratio of constants. So ((3)/(9))=((2)/(k)), which gives ((1)/(3))=((2)/(k)), hence k=6. Also ((5)/(12))≠((1)/(3)), so this value is correct.
+   **Solution:** For no solution, the ratio of x-coefficients and y-coefficients must be equal, but different from the ratio of constants. So (3/9)=(2/k), which gives (1/3)=(2/k), hence k=6. Also (5/12)≠(1/3), so this value is correct.
 
 9. **Question:** Find k for infinitely many solutions: 2x+3y=7, 6x+ky=21.
 
 
-   **Solution:** For infinitely many solutions, all three ratios must be equal: ((2)/(6))=((3)/(k))=((7)/(21)). Since ((2)/(6))=((7)/(21))=((1)/(3)), we need ((3)/(k))=((1)/(3)). So k=9.
+   **Solution:** For infinitely many solutions, all three ratios must be equal: (2/6)=(3/k)=(7/21). Since (2/6)=(7/21)=(1/3), we need (3/k)=(1/3). So k=9.
 
 10. **Question:** Solve: 7x+3y=29, 5x-2y=4.
 
 
-    **Solution:** Multiply first by 2, second by 3: 14x+6y=58, 15x-6y=12. Add: 29x=70, so x=((70)/(29)). Then 5x-2y=4, so y=((117)/(29)).
+    **Solution:** Multiply first by 2, second by 3: 14x+6y=58, 15x-6y=12. Add: 29x=70, so x=(70/29). Then 5x-2y=4, so y=(117/29).
 
 11. **Question:** Solve: x+2y=10, 3x-y=5.
 
 
-    **Solution:** From first x=10-2y. Put in second: 30-6y-y=5, so y=((25)/(7)), x=((20)/(7)).
+    **Solution:** From first x=10-2y. Put in second: 30-6y-y=5, so y=(25/7), x=(20/7).
 
 12. **Question:** Solve: 0.2x+0.3y=1.3, 0.4x-0.5y=0.3.
 
 
-    **Solution:** Multiply by 10: 2x+3y=13, 4x-5y=3. Solve: x=((37)/(11)),y=((23)/(11)).
+    **Solution:** Multiply by 10: 2x+3y=13, 4x-5y=3. Solve: x=(37/11),y=(23/11).
 
-13. **Question:** Solve: ((x)/(2))+((y)/(3))=4, ((x)/(3))-((y)/(2))=1.
+13. **Question:** Solve: (x/2)+(y/3)=4, (x/3)-(y/2)=1.
 
 
     **Solution:** Multiply by 6: 3x+2y=24, 2x-3y=6. Solve: x=6,y=3.
@@ -108,12 +108,12 @@
 22. **Question:** Find k so that kx+3y=7, 9x+6y=14 has no solution.
 
 
-    **Solution:** For no solution, ((k)/(9)) must equal ((3)/(6)), but must not equal ((7)/(14)). Here ((3)/(6))=((7)/(14))=((1)/(2)), so these conditions cannot be satisfied together for any k. Hence **no such k**.
+    **Solution:** For no solution, (k/9) must equal (3/6), but must not equal (7/14). Here (3/6)=(7/14)=(1/2), so these conditions cannot be satisfied together for any k. Hence **no such k**.
 
 23. **Question:** Solve: 9x-2y=7, 3x+y=5.
 
 
-    **Solution:** From second y=5-3x. Put in first: 9x-2(5-3x)=7, so 15x=17, so x=((17)/(15)),y=((8)/(5)).
+    **Solution:** From second y=5-3x. Put in first: 9x-2(5-3x)=7, so 15x=17, so x=(17/15),y=(8/5).
 
 24. **Question:** Find values if x:y=2:3 and x+y=25.
 
@@ -123,7 +123,7 @@
 25. **Question:** Solve: 2x-y=3, x+3y=11.
 
 
-    **Solution:** From first y=2x-3. Put in second: x+6x-9=11, so x=((20)/(7)), y=((19)/(7)).
+    **Solution:** From first y=2x-3. Put in second: x+6x-9=11, so x=(20/7), y=(19/7).
 
 26. **Question:** Two-digit number has digits sum 9 and number is 27 more than reversed. Find number.
 
@@ -133,7 +133,7 @@
 27. **Question:** Solve: 5x+7y=52, 3x-2y=1.
 
 
-    **Solution:** Eliminate y: 10x+14y=104, 21x-14y=7. Add: 31x=111, so x=((111)/(31)). Then 3x-2y=1, so y=((151)/(31)).
+    **Solution:** Eliminate y: 10x+14y=104, 21x-14y=7. Add: 31x=111, so x=(111/31). Then 3x-2y=1, so y=(151/31).
 
 28. **Question:** Solve: x+y=0, 2x+3y=5.
 
@@ -143,27 +143,27 @@
 29. **Question:** Find k so that 2x+3y=8, 4x+ky=16 has infinitely many solutions.
 
 
-    **Solution:** ((2)/(4))=((3)/(k))=((8)/(16))=((1)/(2)), so k=6.
+    **Solution:** (2/4)=(3/k)=(8/16)=(1/2), so k=6.
 
 30. **Question:** Solve by cross-multiplication: 3x+2y=12, 5x-4y=4.
 
 
-    **Solution:** Solving gives x=((28)/(11)), y=((24)/(11)).
+    **Solution:** Solving gives x=(28/11), y=(24/11).
 
-31. **Question:** Sum of numerator and denominator is 10. If 3 is added to both, fraction becomes ((3)/(4)). Find fraction.
+31. **Question:** Sum of numerator and denominator is 10. If 3 is added to both, fraction becomes (3/4). Find fraction.
 
 
-    **Solution:** Let numerator x, denominator y: x+y=10, ((x+3)/(y+3))=((3)/(4)), so 4x-3y=-3. Solve: x=3,y=7. Fraction ((3)/(7)).
+    **Solution:** Let numerator x, denominator y: x+y=10, (x+3/y+3)=(3/4), so 4x-3y=-3. Solve: x=3,y=7. Fraction (3/7).
 
 32. **Question:** Solve: 4x-5y=9, 6x+5y=21.
 
 
-    **Solution:** Add: 10x=30, so x=3, then 12-5y=9, so y=((3)/(5)).
+    **Solution:** Add: 10x=30, so x=3, then 12-5y=9, so y=(3/5).
 
 33. **Question:** Find points where lines x+2y=8 and 3x-y=5 meet.
 
 
-    **Solution:** From second y=3x-5. Put in first: x+6x-10=8, so x=((18)/(7)), y=((19)/(7)).
+    **Solution:** From second y=3x-5. Put in first: x+6x-10=8, so x=(18/7), y=(19/7).
 
 34. **Question:** Solve: 2x+3y=11, 3x+2y=9.
 
@@ -183,27 +183,27 @@
 37. **Question:** Find k for unique solution: kx+2y=5, 6x+4y=7.
 
 
-    **Solution:** Unique if ((k)/(6))≠((2)/(4))=((1)/(2)), so k≠3.
+    **Solution:** Unique if (k/6)≠(2/4)=(1/2), so k≠3.
 
 38. **Question:** A boat goes 30 km downstream and 18 km upstream in 4 h. In still water it goes 12 km/h. Find stream speed.
 
 
-    **Solution:** Let stream speed s. Then ((30)/(12+s))+((18)/(12-s))=4, so s=3 km/h.
+    **Solution:** Let stream speed s. Then (30/12+s)+(18/12-s)=4, so s=3 km/h.
 
 39. **Question:** Solve: x-2y=-1, 3x+4y=19.
 
 
-    **Solution:** From first x=2y-1. Put: 6y-3+4y=19, so 10y=22, so y=((11)/(5)), x=((17)/(5)).
+    **Solution:** From first x=2y-1. Put: 6y-3+4y=19, so 10y=22, so y=(11/5), x=(17/5).
 
 40. **Question:** Solve: 11x+7y=5, 7x+11y=13.
 
 
-    **Solution:** Subtract: 4x-4y=-8, so x-y=-2. Using first: 11(y-2)+7y=5, so 18y=27, so y=((3)/(2)),x=-((1)/(2)).
+    **Solution:** Subtract: 4x-4y=-8, so x-y=-2. Using first: 11(y-2)+7y=5, so 18y=27, so y=(3/2),x=-(1/2).
 
-41. **Question:** Solve: ((x)/(5))+((y)/(2))=7, ((x)/(3))-((y)/(4))=1.
+41. **Question:** Solve: (x/5)+(y/2)=7, (x/3)-(y/4)=1.
 
 
-    **Solution:** Multiply by 10 and 12: 2x+5y=70, 4x-3y=12. Solve: x=((246)/(13)),y=((84)/(13)).
+    **Solution:** Multiply by 10 and 12: 2x+5y=70, 4x-3y=12. Solve: x=(246/13),y=(84/13).
 
 42. **Question:** If a+b=13, a-b=1, find a,b.
 
@@ -213,7 +213,7 @@
 43. **Question:** Find two numbers whose sum is 41 and one is 9 less than twice the other.
 
 
-    **Solution:** Let x+y=41, x=2y-9. Then 3y=50, so y=((50)/(3)), x=((73)/(3)).
+    **Solution:** Let x+y=41, x=2y-9. Then 3y=50, so y=(50/3), x=(73/3).
 
 44. **Question:** Solve: 2x+5y=3, 4x+10y=6.
 
@@ -233,7 +233,7 @@
 47. **Question:** Find k such that system has no solution: 2x+3y=4, 4x+ky=9.
 
 
-    **Solution:** Need ((2)/(4))=((3)/(k))≠((4)/(9)). So k=6.
+    **Solution:** Need (2/4)=(3/k)≠(4/9). So k=6.
 
 48. **Question:** Solve: x+y=9, 2x-y=3.
 
@@ -243,9 +243,9 @@
 49. **Question:** Solve: 5x+2y=19, x-3y=-8.
 
 
-    **Solution:** From second x=3y-8. Put: 15y-40+2y=19, so 17y=59, so y=((59)/(17)), x=((41)/(17)).
+    **Solution:** From second x=3y-8. Put: 15y-40+2y=19, so 17y=59, so y=(59/17), x=(41/17).
 
 50. **Question:** Solve: 3x+7y=20, 6x-7y=8.
 
 
-    **Solution:** Add: 9x=28, so x=((28)/(9)). Then 3x+7y=20, so y=((32)/(21)).
+    **Solution:** Add: 9x=28, so x=(28/9). Then 3x+7y=20, so y=(32/21).

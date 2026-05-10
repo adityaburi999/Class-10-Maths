@@ -8,7 +8,7 @@
 2. **Question:** Solve 2x^2+7x+3=0.
 
 
-   **Solution:** (2x+1)(x+3)=0, so x=-((1)/(2)),-3.
+   **Solution:** (2x+1)(x+3)=0, so x=-(1/2),-3.
 
 3. **Question:** Solve x^2-9=0.
 
@@ -28,7 +28,7 @@
 6. **Question:** Solve 4x^2-1=0.
 
 
-   **Solution:** (2x-1)(2x+1)=0, so x=±((1)/(2)).
+   **Solution:** (2x-1)(2x+1)=0, so x=±(1/2).
 
 7. **Question:** Solve x^2-4x-5=0.
 
@@ -38,7 +38,7 @@
 8. **Question:** Solve 6x^2-x-2=0.
 
 
-   **Solution:** (3x-2)(2x+1)=0, so x=((2)/(3)),-((1)/(2)).
+   **Solution:** (3x-2)(2x+1)=0, so x=(2/3),-(1/2).
 
 9. **Question:** Solve x^2+3x-18=0.
 
@@ -85,7 +85,7 @@
 
     **Solution:** x^2-7x+10=0.
 
-18. **Question:** If roots are -3 and ((1)/(2)), form equation with integer coefficients.
+18. **Question:** If roots are -3 and (1/2), form equation with integer coefficients.
 
 
     **Solution:** (x+3)(2x-1)=0, so 2x^2+5x-3=0.
@@ -103,7 +103,7 @@
 21. **Question:** Solve 9x^2-30x+25=0.
 
 
-    **Solution:** (3x-5)^2=0, so x=((5)/(3)).
+    **Solution:** (3x-5)^2=0, so x=(5/3).
 
 22. **Question:** Solve x^2+2sqrt(3)x+3=0.
 
@@ -115,10 +115,10 @@
 
     **Solution:** x=((sqrt(5)±1)/(2)).
 
-24. **Question:** Solve x^2-((5)/(2))x+1=0.
+24. **Question:** Solve x^2-(5/2)x+1=0.
 
 
-    **Solution:** Multiply by 2: 2x^2-5x+2=0=(2x-1)(x-2). x=((1)/(2)),2.
+    **Solution:** Multiply by 2: 2x^2-5x+2=0=(2x-1)(x-2). x=(1/2),2.
 
 25. **Question:** Solve x(x-4)=5.
 
@@ -130,10 +130,10 @@
 
     **Solution:** x^2-x-6=10, so x^2-x-16=0, so x=((1±sqrt(65))/(2)).
 
-27. **Question:** Solve ((1)/(x))+((1)/(x-2))=((3)/(4)), x≠0,2.
+27. **Question:** Solve (1/x)+(1/x-2)=(3/4), x≠0,2.
 
 
-    **Solution:** ((2x-2)/(x(x-2)))=((3)/(4)), so 8x-8=3x^2-6x, so 3x^2-14x+8=0, so x=4,((2)/(3)).
+    **Solution:** (2x-2)/(x(x-2))=(3/4), so 8x-8=3x^2-6x, so 3x^2-14x+8=0, so x=4,(2/3).
 
 28. **Question:** Solve x^2=6x-8.
 
@@ -143,7 +143,7 @@
 29. **Question:** Solve 2x^2+3x=2.
 
 
-    **Solution:** 2x^2+3x-2=0=(2x-1)(x+2), so x=((1)/(2)),-2.
+    **Solution:** 2x^2+3x-2=0=(2x-1)(x+2), so x=(1/2),-2.
 
 30. **Question:** Solve x^2+1=2x.
 
@@ -160,15 +160,15 @@
 
     **Solution:** b(b+4)=96, so b^2+4b-96=0, so b=8 (positive), length 12.
 
-33. **Question:** A number exceeds its reciprocal by ((15)/(4)). Find number.
+33. **Question:** A number exceeds its reciprocal by (15/4). Find number.
 
 
-    **Solution:** x-((1)/(x))=((15)/(4)), so 4x^2-15x-4=0, so x=4,-((1)/(4)).
+    **Solution:** x-(1/x)=(15/4), so 4x^2-15x-4=0, so x=4,-(1/4).
 
 34. **Question:** If roots of x^2-5x+k=0 are reciprocal, find k.
 
 
-    **Solution:** Product =1=((k)/(1)), so k=1.
+    **Solution:** Product =1=(k/1), so k=1.
 
 35. **Question:** If one root of x^2-3x-10=0 is m, find other root.
 
@@ -183,17 +183,17 @@
 37. **Question:** Solve 4x^2+4x+1=0.
 
 
-    **Solution:** (2x+1)^2=0, so x=-((1)/(2)).
+    **Solution:** (2x+1)^2=0, so x=-(1/2).
 
 38. **Question:** Solve 3x^2-13x+4=0.
 
 
-    **Solution:** (3x-1)(x-4)=0, so x=((1)/(3)),4.
+    **Solution:** (3x-1)(x-4)=0, so x=(1/3),4.
 
 39. **Question:** Solve 7x^2+2x-1=0.
 
 
-    **Solution:** (7x-1)(x+1)=0, so x=((1)/(7)),-1.
+    **Solution:** (7x-1)(x+1)=0, so x=(1/7),-1.
 
 40. **Question:** Solve x^2-11x+24=0.
 
@@ -210,7 +210,7 @@
 
     **Solution:** k^2-64<0, so -8<k<8.
 
-43. **Question:** Solve ((x-1)/(x+1))=((x+3)/(x-3)), x≠±1,3.
+43. **Question:** Solve (x-1/x+1)=(x+3/x-3), x≠±1,3.
 
 
     **Solution:** Cross-multiply: (x-1)(x-3)=(x+3)(x+1), so x^2-4x+3=x^2+4x+3, so x=0.
@@ -220,27 +220,27 @@
 
     **Solution:** (x-sqrt(2))^2=0, so x=sqrt(2).
 
-45. **Question:** Solve x^2-3x+((9)/(4))=0.
+45. **Question:** Solve x^2-3x+(9/4)=0.
 
 
-    **Solution:** (x-((3)/(2)))^2=0, so x=((3)/(2)).
+    **Solution:** (x-(3/2))^2=0, so x=(3/2).
 
 46. **Question:** Solve 2x^2-5x+2=0.
 
 
-    **Solution:** (2x-1)(x-2)=0, so x=((1)/(2)),2.
+    **Solution:** (2x-1)(x-2)=0, so x=(1/2),2.
 
 47. **Question:** Solve 3x^2+x-10=0.
 
 
-    **Solution:** (3x-5)(x+2)=0, so x=((5)/(3)),-2.
+    **Solution:** (3x-5)(x+2)=0, so x=(5/3),-2.
 
 48. **Question:** Solve x^2+7x+12=0.
 
 
     **Solution:** (x+3)(x+4)=0, so x=-3,-4.
 
-49. **Question:** Solve x^2-((1)/(x))=0, x≠0.
+49. **Question:** Solve x^2-(1/x)=0, x≠0.
 
 
     **Solution:** Multiply by x: x^3-1=0, so x=1 (real).

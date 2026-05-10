@@ -8,7 +8,7 @@
 2. **Question:** Find the zeroes of p(x)=2x^2+7x+3.
 
 
-   **Solution:** 2x^2+7x+3=(2x+1)(x+3). Zeroes are -((1)/(2)),-3.
+   **Solution:** 2x^2+7x+3=(2x+1)(x+3). Zeroes are -(1/2),-3.
 
 3. **Question:** If one zero of x^2-7x+k is 3, find k.
 
@@ -28,7 +28,7 @@
 6. **Question:** Verify relation between zeroes and coefficients for 3x^2-11x+6.
 
 
-   **Solution:** Zeroes =3,((2)/(3)). Sum =((11)/(3))=-((b)/(a)), product =2=((c)/(a)). Verified.
+   **Solution:** Zeroes =3,(2/3). Sum =(11/3)=-(b/a), product =2=(c/a). Verified.
 
 7. **Question:** Find remainder when 2x^3-3x^2+4x-5 is divided by x-2.
 
@@ -70,7 +70,7 @@
 
     **Solution:** Grouping: x^2(x+3)-4(x+3)=(x+3)(x^2-4). Zeroes: -3,-2,2.
 
-15. **Question:** Find a polynomial of degree 2 with zeroes ((1)/(2)),-3 and integer coefficients.
+15. **Question:** Find a polynomial of degree 2 with zeroes (1/2),-3 and integer coefficients.
 
 
     **Solution:** (2x-1)(x+3)=2x^2+5x-3.
@@ -80,10 +80,10 @@
 
     **Solution:** alpha+beta=6,alphabeta=8. alpha^2+beta^2=36-16=20.
 
-17. **Question:** For 2x^2-9x+7, find ((1)/(alpha))+((1)/(beta)).
+17. **Question:** For 2x^2-9x+7, find (1/alpha)+(1/beta).
 
 
-    **Solution:** alpha+beta=((9)/(2)),alphabeta=((7)/(2)). Value =((alpha+beta)/(alphabeta))=((9)/(7)).
+    **Solution:** alpha+beta=(9/2),alphabeta=(7/2). Value =(alpha+beta/alphabeta)=(9/7).
 
 18. **Question:** If one zero of x^2+px+16 is 4, find p.
 
@@ -108,7 +108,7 @@
 22. **Question:** If zeroes of x^2-5x+m are equal, find m.
 
 
-    **Solution:** Discriminant 25-4m=0, so m=((25)/(4)).
+    **Solution:** Discriminant 25-4m=0, so m=(25/4).
 
 23. **Question:** For p(x)=x^2-4x+3, find p(0),p(1),p(3).
 
@@ -125,7 +125,7 @@
 
     **Solution:** p(-2)=16-16+2+5=7.
 
-26. **Question:** Find polynomial with zeroes 3 and -((1)/(3)).
+26. **Question:** Find polynomial with zeroes 3 and -(1/3).
 
 
     **Solution:** (x-3)(3x+1)=3x^2-8x-3.
@@ -138,7 +138,7 @@
 28. **Question:** If alpha,beta are zeroes of 2x^2+5x-3, find alphabeta(alpha+beta).
 
 
-    **Solution:** alpha+beta=-((5)/(2)),alphabeta=-((3)/(2)). Product =((15)/(4)).
+    **Solution:** alpha+beta=-(5/2),alphabeta=-(3/2). Product =(15/4).
 
 29. **Question:** Factorise x^3+6x^2+11x+6.
 
@@ -153,7 +153,7 @@
 31. **Question:** If one zero of 2x^2-7x+3 is 3, find the other.
 
 
-    **Solution:** Product =((3)/(2)). Other zero =((1)/(2)).
+    **Solution:** Product =(3/2). Other zero =(1/2).
 
 32. **Question:** Determine k so that x+1 is factor of x^3+kx^2+x+1.
 
@@ -248,4 +248,4 @@
 50. **Question:** If alpha,beta are zeroes of 3x^2-5x-2, find alpha^2+beta^2.
 
 
-    **Solution:** alpha+beta=((5)/(3)),alphabeta=-((2)/(3)). alpha^2+beta^2=((25)/(9))+((4)/(3))=((37)/(9)).
+    **Solution:** alpha+beta=(5/3),alphabeta=-(2/3). alpha^2+beta^2=(25/9)+(4/3)=(37/9).
