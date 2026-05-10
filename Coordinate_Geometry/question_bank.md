@@ -121,7 +121,7 @@
     **Solution:** Let \((x,0)\): \((x-5)^2+144=169\Rightarrow(x-5)^2=25\Rightarrow x=10,0\). Points \((10,0),(0,0)\).
 
 41. **Question:** Find ratio in which \((4,4)\) divides \((1,1)\), \((7,7)\).
-    **Solution:** Coordinates indicate midpoint, ratio \(1:1\).
+    **Solution:** Midpoint of \((1,1)\) and \((7,7)\) is \(\left(\frac{1+7}{2},\frac{1+7}{2}\right)=(4,4)\). So it divides the segment in ratio \(1:1\).
 
 42. **Question:** Find value of \(k\) if \((k,3)\) is midpoint of \((2,1)\), \((8,5)\).
     **Solution:** Midpoint x-coordinate \(=5\). So \(k=5\).
