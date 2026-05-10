@@ -118,7 +118,7 @@
 24. **Question:** Find coordinates of point that divides (2,6), (8,0) in ratio 3:1.
 
 
-    **Solution:** Using section formula with A(2,6),B(8,0),m:n=3:1: P(((m x_2+n x_1)/(m+n)),((m y_2+n y_1)/(m+n)))=(((3×8+1×2)/(4)),((3×0+1×6)/(4)))=(((13)/(2)),((3)/(2))).
+    **Solution:** Using ratio 3:1, coordinates are (((3×8+1×2)/(4)),((3×0+1×6)/(4)))=(((13)/(2)),((3)/(2))).
 
 25. **Question:** If midpoint of (x,2), (6,8) is (4,5), find x.
 
