@@ -1,16 +1,16 @@
 # Pair of Linear Equations in Two Variables: 50 Important Questions with Solutions (Class 10)
 
 1. **Question:** Solve: \(x+y=7,\ x-y=1\).
-   **Solution:** Add: \(2x=8\Rightarrow x=4\), then \(y=3\).
+   **Solution:** Add the two equations to get \(2x=8\), so \(x=4\). Substitute \(x=4\) in \(x+y=7\), so \(y=3\).
 
 2. **Question:** Solve: \(2x+3y=13,\ 3x+2y=12\).
-   **Solution:** Eliminate \(x\): \(6x+9y=39\), \(6x+4y=24\Rightarrow5y=15\Rightarrow y=3\), \(x=2\).
+   **Solution:** Multiply the first equation by 3 and the second by 2. We get \(6x+9y=39\) and \(6x+4y=24\). Subtract the second from the first: \(5y=15\), so \(y=3\). Put \(y=3\) in \(2x+3y=13\): \(2x+9=13\), so \(x=2\).
 
 3. **Question:** Solve: \(5x-2y=1,\ 3x+4y=17\).
-   **Solution:** Multiply first by 2: \(10x-4y=2\). Add with second×1? Better second×1 gives \(3x+4y=17\): \(13x=19\Rightarrow x=\frac{19}{13}\), \(y=\frac{41}{13}\).
+   **Solution:** Multiply the first equation by 2 to get \(10x-4y=2\). Add it with \(3x+4y=17\). Then \(13x=19\), so \(x=\frac{19}{13}\). Substitute this value in \(5x-2y=1\), and we get \(y=\frac{41}{13}\).
 
 4. **Question:** Solve by substitution: \(x=2y+1\), \(3x+y=19\).
-   **Solution:** \(3(2y+1)+y=19\Rightarrow7y=16\Rightarrow y=\frac{16}{7}\), \(x=\frac{39}{7}\).
+   **Solution:** Put \(x=2y+1\) into \(3x+y=19\): \(3(2y+1)+y=19\). This becomes \(7y=16\), so \(y=\frac{16}{7}\). Now \(x=2y+1=2\cdot\frac{16}{7}+1=\frac{39}{7}\).
 
 5. **Question:** Solve: \(4x+5y=6,\ 8x+10y=12\).
    **Solution:** Second is double of first. Infinitely many solutions.
@@ -19,13 +19,13 @@
    **Solution:** LHS ratio equal, constants not. No solution.
 
 7. **Question:** Find \(k\) for unique solution: \(2x+ky=3,\ 4x+6y=5\).
-   **Solution:** Unique if \(\frac{2}{4}\neq\frac{k}{6}\Rightarrow \frac12\neq\frac{k}{6}\Rightarrow k\neq3\).
+   **Solution:** A pair of linear equations has a unique solution when the ratio of \(x\)-coefficients is not equal to the ratio of \(y\)-coefficients. Here that means \(\frac{2}{4}\neq\frac{k}{6}\), so \(\frac{1}{2}\neq\frac{k}{6}\). Therefore \(k\neq3\).
 
 8. **Question:** Find \(k\) for no solution: \(3x+2y=5,\ 9x+ky=12\).
-   **Solution:** No solution when \(\frac{3}{9}=\frac{2}{k}\neq\frac{5}{12}\). So \(\frac13=\frac{2}{k}\Rightarrow k=6\).
+   **Solution:** For no solution, the ratio of \(x\)-coefficients and \(y\)-coefficients must be equal, but different from the ratio of constants. So \(\frac{3}{9}=\frac{2}{k}\), which gives \(\frac{1}{3}=\frac{2}{k}\), hence \(k=6\). Also \(\frac{5}{12}\neq\frac{1}{3}\), so this value is correct.
 
 9. **Question:** Find \(k\) for infinitely many solutions: \(2x+3y=7,\ 6x+ky=21\).
-   **Solution:** Need \(\frac{2}{6}=\frac{3}{k}=\frac{7}{21}=\frac13\Rightarrow k=9\).
+   **Solution:** For infinitely many solutions, all three ratios must be equal: \(\frac{2}{6}=\frac{3}{k}=\frac{7}{21}\). Since \(\frac{2}{6}=\frac{7}{21}=\frac{1}{3}\), we need \(\frac{3}{k}=\frac{1}{3}\). So \(k=9\).
 
 10. **Question:** Solve: \(7x+3y=29,\ 5x-2y=4\).
     **Solution:** Multiply first by 2, second by 3: \(14x+6y=58\), \(15x-6y=12\). Add: \(29x=70\Rightarrow x=\frac{70}{29}\). Then \(5x-2y=4\Rightarrow y=\frac{117}{29}\).
