@@ -108,7 +108,7 @@
 22. **Question:** Find k so that kx+3y=7, 9x+6y=14 has no solution.
 
 
-    **Solution:** For no solution, we must have ((k)/(9))=((3)/(6)) but ((7)/(14)) different from them. Since ((3)/(6))=((7)/(14))=((1)/(2)), this cannot happen for any k. Hence **no such k**.
+    **Solution:** For no solution, ((k)/(9)) must equal ((3)/(6)), but must not equal ((7)/(14)). Here ((3)/(6))=((7)/(14))=((1)/(2)), so these conditions cannot be satisfied together for any k. Hence **no such k**.
 
 23. **Question:** Solve: 9x-2y=7, 3x+y=5.
 
