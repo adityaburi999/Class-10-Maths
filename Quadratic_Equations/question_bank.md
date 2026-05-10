@@ -105,12 +105,12 @@
 
     **Solution:** (3x-5)^2=0, so x=((5)/(3)).
 
-22. **Question:** Solve x^2+2sqrt(3x)+3=0.
+22. **Question:** Solve x^2+2sqrt(3)x+3=0.
 
 
     **Solution:** (x+sqrt(3))^2=0, so x=-sqrt(3).
 
-23. **Question:** Solve x^2-sqrt(5x)+1=0.
+23. **Question:** Solve x^2-sqrt(5)x+1=0.
 
 
     **Solution:** x=((sqrt(5)±1)/(2)).
